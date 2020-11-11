@@ -26,6 +26,8 @@ public class Ex06_1 {
 		
 		int v06 = (int) (1.3 + 1.8); // 1.3 + 1.8 -->3
 		System.out.println(v06);
+		
+		System.out.println("제가 안했는데요???");
 	}
 
 }
